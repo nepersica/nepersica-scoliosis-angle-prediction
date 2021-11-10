@@ -10,6 +10,9 @@ segmentation_models.pytorch/
 example/
 checkpoint/
 Reference/
+Test/Test-External(samsung).ipnyb
+utils/Git.ipnyb
+scoliosis-angle-rediction
 
 *.pdf
 
